@@ -13,4 +13,4 @@ Self learner , aiming to develop my skills as much as possible.<br/>
 HackTheBox player, achived top 25 in the HOF.
 I will share my walkthroughs in this blog ...<br/>
 <br/>
-<img src="/assets/img/sample/bage.png">
+<img src="/assets/img/sample/bage.jpg">
