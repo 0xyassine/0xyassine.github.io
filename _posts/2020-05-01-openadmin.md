@@ -12,7 +12,7 @@ tags: [john,crack id_rsa,gtfobins]
 ![info](https://raw.githubusercontent.com/0xyassine/0xyassine.github.io/master/assets/img/htb/open/info.jpg)
 
 <br/>
-OpenAdmin was retired .It was easy and funny box with web attack and priv escalation techniques so let's start ...<br/>
+OpenAdmin was retired .It was easy and fun box with web attack and priv escalation techniques so let's start ...<br/>
 
 ## nmap scan:
 
