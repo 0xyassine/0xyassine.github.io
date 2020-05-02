@@ -1,7 +1,7 @@
 ---
 title: OpenAdmin
 author: Mohammad YASSINE
-date: 2020-05-01 18:11:00 +0800
+date: 2020-05-02 18:11:00 +0600
 categories: [retired]
 tags: [john,crack id_rsa,gtfobins]
 ---
