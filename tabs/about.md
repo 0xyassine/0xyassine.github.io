@@ -7,10 +7,10 @@ title: About
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
-Pentester and CyberSec researcher ,<br/>
+<font size=5 color="orange">Pentester and CyberSec researcher ,<br/>
 Interested in each field of cyber security.<br/>
 Self learner , aiming to develop my skills as much as possible.<br/>
 HackTheBox player, achived top 25 in the HOF.
 I will share my walkthroughs in this blog ...<br/>
-<br/>
+<br/></font>
 ![yassine](http://www.hackthebox.eu/badge/image/143843)

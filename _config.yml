@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: 0xyassine                          # the main title
+title: yassine                          # the main title
 
 tagline: Pentester | CyberSec analyst .  # it will display as the sub-title
 
@@ -38,6 +38,7 @@ social:
     # Uncomment below to add more social links
      - https://www.facebook.com/mouhamed.yassin.90
      - https://www.linkedin.com/in/mohammad-yassine-8b84041a5/
+     - https://www.hackthebox.eu/home/users/profile/143843
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
